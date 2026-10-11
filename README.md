@@ -87,7 +87,7 @@ A compact **USB Type-C Power Delivery sink board** designed in KiCad, built arou
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/USB-C-PD-Board.git
+   git clone https://github.com/ADITHYANWUU2/USB-C-PD-Board.git
    cd USB-C-PD-Board
    ```
 
