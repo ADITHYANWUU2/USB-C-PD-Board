@@ -1,0 +1,39 @@
+# KiCad backup files
+*.bak
+*.bck
+*~
+*.tmp
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# KiCad lock files
+*.lck
+.~lock.*
+
+# KiCad auto-save files
+_autosave-*
+\#auto_saved_files\#
+
+# KiCad generated files (optional - uncomment if you want to track them)
+# *.net
+# *.dsn
+# *.ses
+
+# Gerber output (regenerate from KiCad)
+# Uncomment the line below if you don't want to track gerber files:
+# gerber/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+__pycache__/
+*.pyc

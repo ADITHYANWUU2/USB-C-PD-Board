@@ -1,0 +1,13 @@
+Reference,Value,Footprint,Qty,Notes
+J1,USB_C_Receptacle,Connector_USB:USB_C_Receptacle_GCT_USB4105,1,"USB Type-C receptacle connector (GCT USB4105-GF-A)"
+U1,HUSB238,Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm,1,"Hynetek HUSB238 USB PD Sink Controller"
+C1,"10uF/25V",Capacitor_SMD:C_0805_2012Metric,1,"VBUS input decoupling capacitor - MLCC X5R"
+C2,100nF,Capacitor_SMD:C_0402_1005Metric,1,"VBUS high-frequency decoupling capacitor"
+C3,"22uF/25V",Capacitor_SMD:C_1206_3216Metric,1,"Output bulk capacitor - MLCC X5R"
+R1,4.7k,Resistor_SMD:R_0402_1005Metric,1,"I2C SDA pull-up resistor"
+R2,4.7k,Resistor_SMD:R_0402_1005Metric,1,"I2C SCL pull-up resistor"
+R3,1k,Resistor_SMD:R_0402_1005Metric,1,"LED current-limiting resistor"
+D1,"Green LED",LED_SMD:LED_0603_1608Metric,1,"Power indicator LED (green, 0603)"
+J2,"Screw Terminal 2P",TerminalBlock:TerminalBlock_bornier-2_P5.08mm,1,"Output screw terminal for VOUT & GND"
+J3,"Pin Header 1x4",Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,"I2C header (VCC/SDA/SCL/GND)"
+H1-H4,MountingHole,MountingHole:MountingHole_2.7mm_M2.5_Pad,4,"M2.5 mounting holes"
